@@ -15,7 +15,7 @@ O site foi desenvolvido utilizando **HTML5 semântico**, **CSS personalizado** e
 Baixe o projeto em seu computador através do comando:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/DarkFit.git
+git clone https://github.com/luanadias00/DarkFit.git
 ```
 
 **ou**
