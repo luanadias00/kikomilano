@@ -66,7 +66,7 @@ DarkFit/
   <tr>
     <td align="center">
       <a href="https://github.com/HenryModesto" title="Github Henry">
-        <img src="Pictures/HENRYZ.jfif" width="180px;" heigth="200px;" alt="Foto de Henry Oliveira Modesto De Jesus"/><br>
+        <img src="Pictures/HenryM.jpeg" width="180px;" heigth="200px;" alt="Foto de Henry Oliveira Modesto De Jesus"/><br>
         <sub>
           <b>HENRY MODESTO</b><br>
           <b>2401244</b>
@@ -75,7 +75,7 @@ DarkFit/
     </td>
     <td align="center">
       <a href="https://github.com/GabryelVenancio" title="Github Gabryel Venancio">
-        <img src="Pictures/Cleffs.jpeg" width="180px;" alt="Foto de Gabryel Venancio Cleffs do Nascimento"/><br>
+        <img src="Pictures/Cleffs.jpeg" style="width:180px; height:230px;" alt="Foto de Gabryel Venancio Cleffs do Nascimento"/><br>
         <sub>
           <b>GABRYEL VENANCIO</b><br>
           <b>2302495</b>
@@ -84,7 +84,7 @@ DarkFit/
     </td>
     <td align="center">
       <a href="https://github.com/AndreyT1224" title="Github Andrey">
-        <img src="Pictures/ANDREW.jpeg" width="172px;" alt="Foto de Andrey Tomaz Silva Alves "/><br>
+        <img src="Pictures/ANDREW.jpeg" style="width:180px; height:230px;"  alt="Foto de Andrey Tomaz Silva Alves "/><br>
         <sub>
           <b>ANDREY TOMAZ</b><br>
           <b>2400729</b>
@@ -93,7 +93,8 @@ DarkFit/
     </td>
     <td align="center">
       <a href="https://github.com/luanadias00" title="Github Luana Dias">
-        <img src="Pictures/Luana.jpeg" width="160px;" alt="Foto Beatriz do Carmo Alves"/><br>
+         <img src="Pictures/Luana.jpeg" style="width:180px; height:230px;"  alt="Foto Luana Dias"/>
+    <br>
         <sub>
           <b>Luana Dias</b><br>
           <b>2401121</b>
@@ -102,7 +103,7 @@ DarkFit/
     </td>
      <td align="center">
       <a href="https://github.com/JanainaFi" title="Github Janaina">
-        <img src="Pictures/Jana.jpeg" width="160px;" alt="Foto Janaina da Silva Figueiredo"/><br>
+        <img src="Pictures/Jana.jpeg" style="width:180px; height:230px;"  alt="Foto Janaina da Silva Figueiredo"/><br>
         <sub>
           <b>JANAINA FIGUEIREDO</b><br>
           <b>2400683</b>
@@ -111,7 +112,7 @@ DarkFit/
     </td>
     <td align="center">
       <a href="https://github.com/mauricio003" title="Github Mauricio">
-        <img src="Pictures/Mauricio.jpeg" width="120px;" alt="Foto Mauricio Costa"/><br>
+        <img src="Pictures/Mauricio.jpeg" style="width:180px; height:230px;"  alt="Foto Mauricio Costa"/><br>
         <sub>
           <b>MAURICIO COSTA</b><br>
           <b>2400487</b>
