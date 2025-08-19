@@ -93,7 +93,7 @@ DarkFit/
     </td>
     <td align="center">
       <a href="https://github.com/luanadias00" title="Github Luana Dias">
-         <img src="Pictures/Luana.jpeg" style="width:180px; height:200px;"  alt="Foto Luana Dias"/>
+         <img src="Pictures/Luana.jpeg" width="180px;" heigth="200px;"   alt="Foto Luana Dias"/>
     <br>
         <sub>
           <b>Luana Dias</b><br>
