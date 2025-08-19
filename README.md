@@ -96,7 +96,7 @@ DarkFit/
          <img src="Pictures/Luana.jpeg" width="180px;" heigth="200px;"   alt="Foto Luana Dias"/>
     <br>
         <sub>
-          <b>Luana Dias</b><br>
+          <b>LUANA DIAS</b><br>
           <b>2401121</b>
         </sub>
       </a>
@@ -105,7 +105,7 @@ DarkFit/
       <a href="https://github.com/JanainaFi" title="Github Janaina">
         <img src="Pictures/Jana.jpeg" style="width:180px; height:200px;"  alt="Foto Janaina da Silva Figueiredo"/><br>
         <sub>
-          <b>JANAINA FIGUEIREDO</b><br>
+          <b>JANAINA SILVA</b><br>
           <b>2400683</b>
         </sub>
       </a>
